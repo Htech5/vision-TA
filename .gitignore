@@ -1,5 +1,10 @@
 datasets/
-runs/
+runs/*
+!runs/segment/
+runs/segment/*
+!runs/segment/runs/
+runs/segment/runs/*
+!runs/segment/runs/human_vehicle-3/
 *.cache
 __pycache__/
 .claude/
