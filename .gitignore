@@ -1,5 +1,5 @@
 datasets/
 runs/
-*.pt
 *.cache
 __pycache__/
+.claude/
